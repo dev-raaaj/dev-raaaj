@@ -23,7 +23,7 @@ Software Developer passionate about building functional web, mobile, and desktop
 
 ### 📊 GitHub Stats
 
-![Raaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-raaaj&show_icons=true&theme=dark)
+![Prith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-raaaj&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-raaaj&layout=compact&theme=dark)
 
 ---
