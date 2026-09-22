@@ -1,4 +1,4 @@
-# Hey there, I'm Raaj 👋
+# Hey there, I'm Prithvi Raj Singh 👋
 
 Software Developer passionate about building functional web, mobile, and desktop applications.
 
